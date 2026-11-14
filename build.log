@@ -1,4 +1,4 @@
-# transcript: code-golf-expr entry (2026-11-14T15:44:54Z)
+# transcript: code-golf-expr entry (2026-11-14T15:45:07Z)
 $ wc -c expr.js
 21 expr.js
 $ node test.js
