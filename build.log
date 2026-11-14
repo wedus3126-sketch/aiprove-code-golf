@@ -1,0 +1,14 @@
+# transcript: code-golf-expr entry (2026-11-14T15:44:54Z)
+$ wc -c expr.js
+21 expr.js
+$ node test.js
+ok   1+2*3 => 7 (expected 7)
+ok   (1+2)*3 => 9 (expected 9)
+ok   10/4 => 2.5 (expected 2.5)
+ok   2*2*2*2 => 16 (expected 16)
+ok   7-3-2 => 2 (expected 2)
+ok   (8-2)/(1+2) => 2 (expected 2)
+ok   3.5+1.5 => 5 (expected 5)
+ok   100 => 100 (expected 100)
+ok   2*(3+(4-1)) => 12 (expected 12)
+all public cases pass
